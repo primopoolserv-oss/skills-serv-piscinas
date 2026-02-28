@@ -129,7 +129,7 @@ Bot: Ese ruido puede ser que el motor esté trabado o tenga algo atorado. Es mej
 ## Información para Agendar Citas
 
 ### Horarios
-- Lunes a Viernes: 8:00 AM - 5:00 PM
+- Lunes a Viernes: 8:00 AM - 6:00 PM
 - Sábados: Solo emergencias (cargo adicional)
 - Domingos: Solo emergencias (cargo adicional)
 
